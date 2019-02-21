@@ -7,12 +7,12 @@ This project enables Apache Spark streaming applications to consume messages fro
 It is released under the Apache License v2.
 
 # Reqiurements
-hadoop2.7
-Spark 2.2.X and above
-Python 2.7 and above
+hadoop2.7 and above, 
+Spark 2.2.X and above, 
+Python 2.7 and above, 
 
 # Covers
-structured_streaming_kafka.py
+structured_streaming_kafka.py, 
 structured-streaming.py
 
 
