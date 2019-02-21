@@ -7,14 +7,14 @@ This project enables Apache Spark streaming applications to consume messages fro
 It is released under the Apache License v2.
 
 # Reqiurements
-Hadoop 2.7 and above 
-Spark 2.2.X and above 
-Python 2.7 and above 
+1. Hadoop 2.7 and above 
+2. Spark 2.2 and above 
+3. Python 2.7 and above 
 
 # Covers
-Structured streaming from a Kafka topic and prints lines to console - structured_streaming_kafka.py
-Structured streaming from a Socket sever and prints lines to console - structured-streaming.py
-Streaming jons logs from a Socket sever and saves on Mangodb - json_streaming_socket_mango.py
+1. Structured streaming from a Kafka topic and prints lines to console - structured_streaming_kafka.py
+2. Structured streaming from a Socket sever and prints lines to console - structured-streaming.py
+3. Streaming jons logs from a Socket sever and saves on Mangodb - json_streaming_socket_mango.py
 
 
 # Copyright and License
