@@ -1,0 +1,1328 @@
+{
+    "autoMappingError": null, 
+    "consolidation": {
+        "consolidatedSchema": null, 
+        "consolidatedTableName": null, 
+        "consolidationKeys": null, 
+        "viewSchema": null
+    }, 
+    "fields": [
+        {
+            "fieldName": "_metadata", 
+            "fields": [
+                {
+                    "fieldName": "@parent_uuid", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "@timestamp", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "@uuid", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "@version", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "client_ip", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "client_name", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "event_type", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "file_modified_ts", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "file_name", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "input_id", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "input_label", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "input_type", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "line_number", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "output_hint", 
+                    "fields": [
+                        {
+                            "fieldName": "schema", 
+                            "fields": [], 
+                            "mapping": {
+                                "columnName": "", 
+                                "columnType": null, 
+                                "isDiscarded": true, 
+                                "machineGenerated": false, 
+                                "subFields": null
+                            }
+                        }, 
+                        {
+                            "fieldName": "table", 
+                            "fields": [], 
+                            "mapping": {
+                                "columnName": "", 
+                                "columnType": null, 
+                                "isDiscarded": true, 
+                                "machineGenerated": false, 
+                                "subFields": null
+                            }
+                        }
+                    ], 
+                    "mapping": null
+                }, 
+                {
+                    "fieldName": "restream_count", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "schema_url", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "token", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "total_rows", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }
+            ], 
+            "mapping": null
+        }, 
+        {
+            "fieldName": "affiliate", 
+            "fields": [
+                {
+                    "fieldName": "description", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "affiliate_description", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "id", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "affiliate_id", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "type", 
+                    "fields": [
+                        {
+                            "fieldName": "description", 
+                            "fields": [], 
+                            "mapping": {
+                                "columnName": "affiliate_type_description", 
+                                "columnType": {
+                                    "nonNull": false, 
+                                    "type": "STRING"
+                                }, 
+                                "isDiscarded": false, 
+                                "machineGenerated": false, 
+                                "subFields": null
+                            }
+                        }, 
+                        {
+                            "fieldName": "id", 
+                            "fields": [], 
+                            "mapping": {
+                                "columnName": "affiliate_type_id", 
+                                "columnType": {
+                                    "nonNull": false, 
+                                    "type": "BIGINT"
+                                }, 
+                                "isDiscarded": false, 
+                                "machineGenerated": false, 
+                                "subFields": null
+                            }
+                        }
+                    ], 
+                    "mapping": null
+                }
+            ], 
+            "mapping": null
+        }, 
+        {
+            "fieldName": "businessDate", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "business_date", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "TIMESTAMPTZ"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "customer", 
+            "fields": [
+                {
+                    "fieldName": "address1", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_address1", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "address2", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_address2", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "address3", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_address3", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "allowEmail", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_allow_email", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "allowSMS", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_allow_sms", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "city", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_city", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "country", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_country", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "email", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_email", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "id", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_id", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "isRewardsCustomer", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_is_rewards_customer", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BOOLEAN"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "name", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_name", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "phoneNumber", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_phone_number", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "postalCode", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_postal_code", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "rewardPointsEarned", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_points_earned", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "rewardPointsRedeemed", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_points_redeemed", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "segment", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_segment", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "segmentTestFlag", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "state", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "customer_state", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }
+            ], 
+            "mapping": null
+        }, 
+        {
+            "fieldName": "deliveryFee", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "delivery_fee", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "FLOAT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "deliveryRemarks", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "delivery_remarks", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "deliveryTime", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "delivery_time", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "BIGINT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "digitalChannel", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "digital_channel", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "digital_channel", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "eventId", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "event_id", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "eventTimestamp", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "event_timestamp", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "TIMESTAMPTZ"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "eventType", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "event_id", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "event_timestamp", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "fees", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "fees", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "firstOrder", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "first_order", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "BOOLEAN"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "grandTotal", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "grand_total", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "FLOAT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "headerId", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "order_id", 
+                "columnType": {
+                    "nonNull": true, 
+                    "type": "BIGINT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "insertDatetime", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "insertTimestamp", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "insert_timestamp", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "TIMESTAMPTZ"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "insert_timestamp", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "items", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "language", 
+            "fields": [
+                {
+                    "fieldName": "code", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "language_code", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "id", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "language_id", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "name", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "language_name", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }
+            ], 
+            "mapping": null
+        }, 
+        {
+            "fieldName": "methodOfPayment", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "method_of_payment", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "orderDate", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "order_date", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "TIMESTAMPTZ"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "orderNumber", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "order_number", 
+                "columnType": {
+                    "nonNull": true, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "orderStatus", 
+            "fields": [
+                {
+                    "fieldName": "description", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "order_status_description", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "id", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "order_status_id", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }
+            ], 
+            "mapping": null
+        }, 
+        {
+            "fieldName": "orderType", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "order_type", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "planAhead", 
+            "fields": [
+                {
+                    "fieldName": "isPlanAhead", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "plan_ahead_is_plan_ahead", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BOOLEAN"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "localReadyTimestamp", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "plan_ahead_local_ready_timestamp", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "TIMESTAMPTZ"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "readyTimestamp", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "plan_ahead_ready_timestamp", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "TIMESTAMPTZ"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "timezone", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "plan_ahead_timezone", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }
+            ], 
+            "mapping": null
+        }, 
+        {
+            "fieldName": "pointOfSale", 
+            "fields": [
+                {
+                    "fieldName": "orderNumber", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "point_of_sale_order_number", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "version", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "", 
+                        "columnType": null, 
+                        "isDiscarded": true, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }
+            ], 
+            "mapping": null
+        }, 
+        {
+            "fieldName": "pointOfSaleOrderNumber", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "pointOfSaleVersion", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "promos", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "shortDate", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "store", 
+            "fields": [
+                {
+                    "fieldName": "address1", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_address1", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "address2", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_address2", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "address3", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_address3", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "city", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_city", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "country", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_country", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "id", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_id", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "BIGINT"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "phoneNumber", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_phone_number", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "postalCode", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_postal_code", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }, 
+                {
+                    "fieldName": "state", 
+                    "fields": [], 
+                    "mapping": {
+                        "columnName": "store_state", 
+                        "columnType": {
+                            "nonNull": false, 
+                            "type": "STRING"
+                        }, 
+                        "isDiscarded": false, 
+                        "machineGenerated": false, 
+                        "subFields": null
+                    }
+                }
+            ], 
+            "mapping": null
+        }, 
+        {
+            "fieldName": "subscriptionId", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "subscription_id", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "taxes", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "taxes", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "STRING"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "tip", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "tip", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "FLOAT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "total", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "total", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "FLOAT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "totalDiscount", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "total_discount", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "FLOAT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "totalFees", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "total_fees", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "FLOAT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "totalTaxes", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "total_taxes", 
+                "columnType": {
+                    "nonNull": false, 
+                    "type": "FLOAT"
+                }, 
+                "isDiscarded": false, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }, 
+        {
+            "fieldName": "total_taxes", 
+            "fields": [], 
+            "mapping": {
+                "columnName": "", 
+                "columnType": null, 
+                "isDiscarded": true, 
+                "machineGenerated": false, 
+                "subFields": null
+            }
+        }
+    ], 
+    "mapping": {
+        "isDiscarded": false, 
+        "outputHint": "{\"table\":\"online_order_reload_from_gcs\",\"schema\":\"global\"}", 
+        "readOnly": false, 
+        "schema": "global", 
+        "tableName": "order_online_order"
+    }, 
+    "mappingMode": "STRICT", 
+    "name": "order_online_order", 
+    "origInputLabel": "online-order-event-topic", 
+    "state": "MAPPED", 
+    "usingDefaultMappingMode": true
+}
