@@ -14,7 +14,7 @@ It is released under the Apache License v2.
 # Covers
 1. Structured streaming from a Kafka topic and prints lines to console - structured_streaming_kafka.py
 2. Structured streaming from a Socket sever and prints lines to console - structured-streaming.py
-3. Streaming jons logs from a Socket sever and saves on Mangodb - json_streaming_socket_mango.py
+3. Streaming json logs from a Socket sever and saves on Mangodb - json_streaming_socket_mango.py
 
 
 # Copyright and License
